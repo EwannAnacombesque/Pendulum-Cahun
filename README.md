@@ -1,1 +1,2 @@
-Double Pendulum Simulation
+# Double Pendulum Simulation
+Simple simulation with clocks as pendulums
